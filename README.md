@@ -1,4 +1,4 @@
-# Python
+# Python - Using Jupyter Notebook
 Reviewing Python after graduating school 
 Becoming a professional using Python is the goal. 
 Backend Developer / Data science / Machine Learning 
